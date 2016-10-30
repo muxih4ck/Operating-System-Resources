@@ -4,9 +4,12 @@
 
 <hr>
 
-## Linux 💻
-+ [Linux Source Code](https://github.com/torvalds/linux)
-+ [The Linux Kernel Archives](https://www.kernel.org/)
+## *nix  💻
++ Unix
+    - [Unix operating system source code level six](http://v6.cuzuco.com/)
++ Linux
+    - [Linux Source Code](https://github.com/torvalds/linux)
+    - [The Linux Kernel Archives](https://www.kernel.org/)
 
 ## HomeBrew OS 🍺
 + [MIT xv6 project](https://pdos.csail.mit.edu/6.828/2012/xv6.html): a simple Unix-like teaching operating system
