@@ -10,6 +10,7 @@
 
 ## HomeBrew OS 🍺
 + [MIT xv6 project](https://pdos.csail.mit.edu/6.828/2012/xv6.html): a simple Unix-like teaching operating system
+    - [source code](https://github.com/mit-pdos/xv6-public)
     - [中文文档](https://github.com/ranxian/xv6-chinese)
 + [Toaruos](https://github.com/klange/toaruos): Hobby kernel + userspace, built mostly from scratch. http://toaruos.org
     - [ToaruOS at 5 Years: A Closer Look at a Hobby OS](https://www.youtube.com/watch?v=Wp5kl-NfpM8)
