@@ -13,6 +13,7 @@
     - [中文文档](https://github.com/ranxian/xv6-chinese)
 + [Toaruos](https://github.com/klange/toaruos): Hobby kernel + userspace, built mostly from scratch. http://toaruos.org
     - [ToaruOS at 5 Years: A Closer Look at a Hobby OS](https://www.youtube.com/watch?v=Wp5kl-NfpM8)
++ [elephant](https://github.com/elephantos/elephant): 《操作系统真相还原》源代码
 + [OS67](https://github.com/LastAvenger/OS67): a unix-like toy kernel.
 
 ## Book 📖
