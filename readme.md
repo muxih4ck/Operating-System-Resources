@@ -19,6 +19,8 @@
     - [ToaruOS at 5 Years: A Closer Look at a Hobby OS](https://www.youtube.com/watch?v=Wp5kl-NfpM8)
 + [elephant](https://github.com/elephantos/elephant): 《操作系统真相还原》源代码
 + [OS67](https://github.com/LastAvenger/OS67): a unix-like toy kernel.
++ [babyos](https://github.com/guzhoudiaoke/babyos): 自己动手实现一个玩具操作系统，名曰babyos。以baby为名，取其活泼、可爱之意。简单，却招人喜爱，幼稚，却又生机勃勃。
+    + [babyos wiki](https://github.com/guzhoudiaoke/babyos/wiki)
 
 ## Book 📖
 + [《操作系统真相还原》](www.epubit.com.cn/article/465)
@@ -29,4 +31,5 @@
 + [RevolutionOS (Linux story)](https://www.youtube.com/watch?v=iBVgcjhYV2A)
 
 ## Master 👼
+
 + [Linus Torvalds](https://github.com/torvalds)
