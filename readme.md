@@ -19,7 +19,10 @@
     - [ToaruOS at 5 Years: A Closer Look at a Hobby OS](https://www.youtube.com/watch?v=Wp5kl-NfpM8)
 + [minoca os](https://github.com/minoca/os): Minoca OS is a general purpose
   operating system written from scratch. It aims to be lean, maintainable,
-modular, and compatible with existing software. 
+modular, and compatible with existing software.
++ MikeOs
+    - [source code](https://github.com/mig-hub/mikeOS)
+    - [website](http://mikeos.sourceforge.net)
 + [elephant](https://github.com/elephantos/elephant): 《操作系统真相还原》源代码
 + [OS67](https://github.com/LastAvenger/OS67): a unix-like toy kernel.
 + [babyos](https://github.com/guzhoudiaoke/babyos): 自己动手实现一个玩具操作系统，名曰babyos。以baby为名，取其活泼、可爱之意。简单，却招人喜爱，幼稚，却又生机勃勃。
