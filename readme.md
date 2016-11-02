@@ -20,7 +20,7 @@
 + [minoca os](https://github.com/minoca/os): Minoca OS is a general purpose
   operating system written from scratch. It aims to be lean, maintainable,
 modular, and compatible with existing software.
-+ MikeOs
++ MikeOs: MikeOS is an operating system for x86 PCs, written in assembly language. It is a learning tool to show how simple 16-bit, real-mode OSes work
     - [source code](https://github.com/mig-hub/mikeOS)
     - [website](http://mikeos.sourceforge.net)
 + [elephant](https://github.com/elephantos/elephant): 《操作系统真相还原》源代码
